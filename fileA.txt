@@ -7,3 +7,4 @@ feature 1 with 1 bug
 =======
 feature1 with bug feature 2 wip
 >>>>>>> feature 2 wip
+feature1
